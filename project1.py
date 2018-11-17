@@ -2,7 +2,6 @@ def printer():
   print("My name is Chacha")
 
 printer()
-
 def printloop():
   for i in range(5,16):
     print(i)
